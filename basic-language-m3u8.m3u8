@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,LANGUAGE="en",NAME="English",DEFAULT=YES,AUTOSELECT=YES
+https://hls.ted.com/project_masters/798/manifest.m3u8?intro_master_id=9294
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,LANGUAGE="fr",NAME="French",DEFAULT=NO,AUTOSELECT=YES
+https://hls.ted.com/project_masters/9223/manifest.m3u8?intro_master_id=9294
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,LANGUAGE="de",NAME="German",DEFAULT=NO,AUTOSELECT=YES
+https://hls.ted.com/project_masters/9222/manifest.m3u8?intro_master_id=9294
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,LANGUAGE="it",NAME="Italian",DEFAULT=NO,AUTOSELECT=YES
+https://hls.ted.com/project_masters/9241/manifest.m3u8?intro_master_id=9294
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,LANGUAGE="pt",NAME="Portugese",DEFAULT=NO,AUTOSELECT=YES
+https://hls.ted.com/project_masters/9221/manifest.m3u8?intro_master_id=9294
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,LANGUAGE="es",NAME="Spanish",DEFAULT=NO,AUTOSELECT=YES
+https://hls.ted.com/project_masters/9220/manifest.m3u8?intro_master_id=9294
