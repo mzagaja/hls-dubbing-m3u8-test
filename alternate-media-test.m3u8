@@ -13,7 +13,7 @@
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1102319,RESOLUTION=854x480,FRAME-RATE=23.974,CODECS="avc1.64001f,mp4a.40.2",VIDEO="video",AVERAGE-BANDWIDTH=852038,AUDIO="audio0",SUBTITLES="subs",NAME="English",language="en"
 https://hls.ted.com/project_masters/798/index-f9-v1.m3u8?intro_master_id=9294
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=157231,RESOLUTION=320x180,FRAME-RATE=23.974,CODECS="avc1.42c00d,mp4a.40.2",VIDEO="video",AVERAGE-BANDWIDTH=121908,AUDIO="audio0",SUBTITLES="subs,"NAME="English",language="en"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=157231,RESOLUTION=320x180,FRAME-RATE=23.974,CODECS="avc1.42c00d,mp4a.40.2",VIDEO="video",AVERAGE-BANDWIDTH=121908,AUDIO="audio0",SUBTITLES="subs","NAME="English",language="en"
 https://hls.ted.com/project_masters/798/index-f1-v1.m3u8?intro_master_id=9294
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=238687,RESOLUTION=320x180,FRAME-RATE=23.974,CODECS="avc1.42c01e,mp4a.40.2",VIDEO="video",AVERAGE-BANDWIDTH=206421,AUDIO="audio0",SUBTITLES="subs","NAME="English",language="en"
 https://hls.ted.com/project_masters/798/index-f2-v1.m3u8?intro_master_id=9294
