@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="video",LANGUAGE="eng",NAME="English",AUTOSELECT=YES, DEFAULT=YES,URI="https://hls.ted.com/project_masters/798/manifest.m3u8?intro_master_id=9294"
+#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="video",LANGUAGE="es",NAME="Espanol",AUTOSELECT=YES, DEFAULT=NO,URI=https://hls.ted.com/project_masters/9220/manifest.m3u8?intro_master_id=9294"
+#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="video",LANGUAGE="fr",NAME="French",AUTOSELECT=YES, DEFAULT=NO,URI=https://hls.ted.com/project_masters/9223/manifest.m3u8?intro_master_id=9294"
+#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="video",LANGUAGE="de",NAME="German",DEFAULT=NO,AUTOSELECT=YES,URI="https://hls.ted.com/project_masters/9222/manifest.m3u8?intro_master_id=9294"
+#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="video",LANGUAGE="it",NAME="Italian",DEFAULT=NO,AUTOSELECT=YES,URI="https://hls.ted.com/project_masters/9241/manifest.m3u8?intro_master_id=9294"
+#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="video",LANGUAGE="pt",NAME="Portugese",DEFAULT=NO,AUTOSELECT=YES,URI="https://hls.ted.com/project_masters/9221/manifest.m3u8?intro_master_id=9294"
