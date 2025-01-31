@@ -27,12 +27,6 @@ https://hls.ted.com/project_masters/798/index-f14-v1.m3u8?intro_master_id=9294
 #EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="video",LANGUAGE="es",NAME="Español",AUTOSELECT=YES,DEFAULT=NO,URI="https://raw.githubusercontent.com/mzagaja/hls-dubbing-m3u8-test/refs/heads/main/alternate-media-full-test-es.m3u8"
 #EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="video",LANGUAGE="fr",NAME="French",AUTOSELECT=YES,DEFAULT=NO,URI="https://raw.githubusercontent.com/mzagaja/hls-dubbing-m3u8-test/refs/heads/main/alternate-media-full-test-fr.m3u8"
 
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-es",NAME="Español low",AUTOSELECT=YES,DEFAULT=NO,CHANNELS="1",URI="https://hls.ted.com/project_masters/9220/index-f5-a1.m3u8?intro_master_id=9294",LANGUAGE="es"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-es",NAME="Español medium",AUTOSELECT=YES,DEFAULT=NO,CHANNELS="2",URI="https://hls.ted.com/project_masters/9220/index-f8-a1.m3u8?intro_master_id=9294",LANGUAGE="es"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-es",NAME="Español high",AUTOSELECT=YES,DEFAULT=NO,CHANNELS="2",URI="https://hls.ted.com/project_masters/9220/index-f12-a1.m3u8?intro_master_id=9294",LANGUAGE="es"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-fr",NAME="French low",AUTOSELECT=YES,DEFAULT=NO,CHANNELS="1",URI="https://hls.ted.com/project_masters/9223/index-f5-a1.m3u8?intro_master_id=9294",LANGUAGE="fr"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-fr",NAME="French medium",AUTOSELECT=YES,DEFAULT=NO,CHANNELS="2",URI="https://hls.ted.com/project_masters/9223/index-f8-a1.m3u8?intro_master_id=9294",LANGUAGE="fr"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-fr",NAME="French high",AUTOSELECT=YES,DEFAULT=NO,CHANNELS="2",URI="https://hls.ted.com/project_masters/9223/index-f12-a1.m3u8?intro_master_id=9294",LANGUAGE="fr"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-en",NAME="English low",AUTOSELECT=YES,DEFAULT=NO,CHANNELS="1",URI="https://hls.ted.com/project_masters/798/index-f5-a1.m3u8?intro_master_id=9294",LANGUAGE="en"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-en",NAME="English medium",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="https://hls.ted.com/project_masters/798/index-f8-a1.m3u8?intro_master_id=9294",LANGUAGE="en"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-en",NAME="English high",AUTOSELECT=YES,DEFAULT=NO,CHANNELS="2",URI="https://hls.ted.com/project_masters/798/index-f12-a1.m3u8?intro_master_id=9294",LANGUAGE="en"
