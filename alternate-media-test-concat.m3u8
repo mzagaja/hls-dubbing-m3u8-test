@@ -30,6 +30,10 @@ https://hls.ted.com/project_masters/798/index-f13-v1.m3u8?intro_master_id=9294
 #EXT-X-STREAM-INF:BANDWIDTH=4480577,RESOLUTION=1920x1080,FRAME-RATE=23.974,CODECS="avc1.640029,mp4a.40.2",VIDEO="video-en",AVERAGE-BANDWIDTH=2827462,AUDIO="audio-en",SUBTITLES="subs",NAME="English",LANGUAGE="en"
 https://hls.ted.com/project_masters/798/index-f14-v1.m3u8?intro_master_id=9294
 
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-it",NAME="low",AUTOSELECT=NO,DEFAULT=NO,CHANNELS="1",URI="https://hls.ted.com/project_masters/9241/index-f5-a1.m3u8?intro_master_id=9294",LANGUAGE="it"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-it",NAME="medium",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="https://hls.ted.com/project_masters/9241/index-f8-a1.m3u8?intro_master_id=9294",LANGUAGE="it"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-it",NAME="high",AUTOSELECT=NO,DEFAULT=NO,CHANNELS="2",URI="https://hls.ted.com/project_masters/9241/index-f12-a1.m3u8?intro_master_id=9294",LANGUAGE="it"
+
 #EXT-X-STREAM-INF:BANDWIDTH=1141222,RESOLUTION=854x480,FRAME-RATE=23.974,CODECS="avc1.64001f,mp4a.40.2",AVERAGE-BANDWIDTH=870345,AUDIO="audio-it",NAME="Italian",LANGUAGE="it",VIDEO="video-it"
 https://hls.ted.com/project_masters/9241/index-f9-v1.m3u8?intro_master_id=9294
 #EXT-X-STREAM-INF:BANDWIDTH=156003,RESOLUTION=320x180,FRAME-RATE=23.974,CODECS="avc1.42c00d,mp4a.40.2",AVERAGE-BANDWIDTH=121662,AUDIO="audio-it",NAME="Italian",LANGUAGE="it",VIDEO="video-it"
@@ -40,7 +44,7 @@ https://hls.ted.com/project_masters/9241/index-f2-v1.m3u8?intro_master_id=9294
 https://hls.ted.com/project_masters/9241/index-f3-v1.m3u8?intro_master_id=9294
 #EXT-X-STREAM-INF:BANDWIDTH=463066,RESOLUTION=416x234,FRAME-RATE=23.974,CODECS="avc1.64001e,mp4a.40.2",AVERAGE-BANDWIDTH=361786,AUDIO="audio-it",NAME="Italian",LANGUAGE="it",VIDEO="video-it"
 https://hls.ted.com/project_masters/9241/index-f4-v1.m3u8?intro_master_id=9294
-#EXT-X-STREAM-INF:BANDWIDTH=574825,RESOLUTION=480x270,FRAME-RATE=23.974,CODECS="avc1.64001f,mp4a.40.2",AVERAGE-BANDWIDTH=408089,AUDIO="audio-it,NAME="Italian",LANGUAGE="it",VIDEO="video-it"
+#EXT-X-STREAM-INF:BANDWIDTH=574825,RESOLUTION=480x270,FRAME-RATE=23.974,CODECS="avc1.64001f,mp4a.40.2",AVERAGE-BANDWIDTH=408089,AUDIO="audio-it",NAME="Italian",LANGUAGE="it",VIDEO="video-it"
 https://hls.ted.com/project_masters/9241/index-f6-v1.m3u8?intro_master_id=9294
 #EXT-X-STREAM-INF:BANDWIDTH=925010,RESOLUTION=640x360,FRAME-RATE=23.974,CODECS="avc1.64001f,mp4a.40.2",AVERAGE-BANDWIDTH=728464,AUDIO="audio-it",NAME="Italian",LANGUAGE="it",VIDEO="video-it"
 https://hls.ted.com/project_masters/9241/index-f7-v1.m3u8?intro_master_id=9294
@@ -52,7 +56,3 @@ https://hls.ted.com/project_masters/9241/index-f11-v1.m3u8?intro_master_id=9294
 https://hls.ted.com/project_masters/9241/index-f13-v1.m3u8?intro_master_id=9294
 #EXT-X-STREAM-INF:BANDWIDTH=4114795,RESOLUTION=1920x1080,FRAME-RATE=23.974,CODECS="avc1.640029,mp4a.40.2",AVERAGE-BANDWIDTH=2838496,AUDIO="audio-it",NAME="Italian",LANGUAGE="it",VIDEO="video-it"
 https://hls.ted.com/project_masters/9241/index-f14-v1.m3u8?intro_master_id=9294
-
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-it",NAME="low",AUTOSELECT=NO,DEFAULT=NO,CHANNELS="1",URI="https://hls.ted.com/project_masters/9241/index-f5-a1.m3u8?intro_master_id=9294",LANGUAGE="it"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-it",NAME="medium",AUTOSELECT=YES,DEFAULT=NO,CHANNELS="2",URI="https://hls.ted.com/project_masters/9241/index-f8-a1.m3u8?intro_master_id=9294",LANGUAGE="it"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-it",NAME="high",AUTOSELECT=NO,DEFAULT=NO,CHANNELS="2",URI="https://hls.ted.com/project_masters/9241/index-f12-a1.m3u8?intro_master_id=9294",LANGUAGE="it"
